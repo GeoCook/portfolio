@@ -88,10 +88,12 @@ class App extends React.Component{
             <PDivider />
             <div>
               <SubHeaders title="Get in touch" />
-              <a href="https://github.com/GeoCook">
+              <a href="https://github.com/GeoCook" target="_blank">
                 <img src={gitHubLogo} className="skill-icon"/>
               </a>
-              <img src={linkInLogo} className="skill-icon"/>
+              <a href="https://www.linkedin.com/in/geo-cook-61b55a25/" target="_blank">
+                <img src={linkInLogo} className="skill-icon"/>
+              </a>
             </div>
           </div>
         </header>
