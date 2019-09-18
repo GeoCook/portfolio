@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5d896ff.chunk.css",
+    "main.js": "/static/js/main.faba3bdc.chunk.js",
+    "main.js.map": "/static/js/main.faba3bdc.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.0027d5f0.js",
+    "runtime~main.js.map": "/static/js/runtime~main.0027d5f0.js.map",
+    "static/js/2.e114199f.chunk.js": "/static/js/2.e114199f.chunk.js",
+    "static/js/2.e114199f.chunk.js.map": "/static/js/2.e114199f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.faf040b61a3cd1b0393ccb1071e3a3b5.js": "/precache-manifest.faf040b61a3cd1b0393ccb1071e3a3b5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d5d896ff.chunk.css.map": "/static/css/main.d5d896ff.chunk.css.map",
+    "static/media/affinityDesigner.png": "/static/media/affinityDesigner.fac9b054.png",
+    "static/media/cPlusPlus.png": "/static/media/cPlusPlus.802e21e6.png",
+    "static/media/css.png": "/static/media/css.683a9ec2.png",
+    "static/media/dividerBlue.png": "/static/media/dividerBlue.c0ddb114.png",
+    "static/media/dividerPink.png": "/static/media/dividerPink.8fb43516.png",
+    "static/media/git.png": "/static/media/git.a9919ab6.png",
+    "static/media/html.png": "/static/media/html.7187cacf.png",
+    "static/media/js.png": "/static/media/js.00a3c5cb.png",
+    "static/media/linkedInLogo.png": "/static/media/linkedInLogo.519e2045.png",
+    "static/media/maya.png": "/static/media/maya.1abcba7e.png",
+    "static/media/node.png": "/static/media/node.d8542544.png",
+    "static/media/python.png": "/static/media/python.4df685b6.png",
+    "static/media/random002.jpg": "/static/media/random002.1d6a353e.jpg",
+    "static/media/react.png": "/static/media/react.3a0b5e47.png"
+  }
+}
