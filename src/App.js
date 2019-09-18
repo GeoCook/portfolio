@@ -88,7 +88,9 @@ class App extends React.Component{
             <PDivider />
             <div>
               <SubHeaders title="Get in touch" />
-              <img src={gitHubLogo} className="skill-icon"/>
+              <a href="https://github.com/GeoCook">
+                <img src={gitHubLogo} className="skill-icon"/>
+              </a>
               <img src={linkInLogo} className="skill-icon"/>
             </div>
           </div>
