@@ -89,10 +89,10 @@ class App extends React.Component{
             <div>
               <SubHeaders title="Get in touch" />
               <a href="https://github.com/GeoCook" target="_blank">
-                <img src={gitHubLogo} className="skill-icon"/>
+                <img src={gitHubLogo} className="skill-icon icon-link"/>
               </a>
               <a href="https://www.linkedin.com/in/geo-cook-61b55a25/" target="_blank">
-                <img src={linkInLogo} className="skill-icon"/>
+                <img src={linkInLogo} className="skill-icon icon-link"/>
               </a>
             </div>
           </div>
